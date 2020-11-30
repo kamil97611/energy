@@ -1,4 +1,17 @@
 # energy
+Energy audits 
+Build with NUXT.js
+npx create-nuxt-app energy
+NUXT setup:
+Programming language:Javascript
+Package manager: NPM
+UI framework: None
+Testing framework: JEST
+Rendering mode: Universal
+Deployment target: NODE.js hosting
+Development tools: jsconfig.json
+Version control system: GIT
+cd energy --> npm run dev
 
 ## Build Setup
 
