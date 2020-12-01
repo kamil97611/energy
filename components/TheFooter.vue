@@ -12,8 +12,13 @@ export default {
 
 <style scoped>
 .main-footer {
-    width: 100%;
-    background:black;
-    height: 4.5rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+  height: 2.5rem;
 }
 </style>

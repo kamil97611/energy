@@ -1,23 +1,23 @@
 <template>
-  <div>
+  <div class="color">
     <TheHeader />
     <main class="main-content">
-      <Nuxt />
+
     </main>
     <TheFooter />
   </div>
 </template>
 
 <script>
-import TheHeader from '@/components/TheHeader.vue';
-import TheFooter from '@/components/TheFooter.vue';
+import TheHeader from '@/components/TheHeader'
+import TheFooter from '@/components/TheFooter'
 
 export default {
-components: {
+  components: {
     TheHeader,
     TheFooter
-    }
-};
+  }
+}
 </script>
 
 <style>
@@ -26,7 +26,8 @@ components: {
 }
 body {
   font-family: "Lato", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
 }
-.main-content {
-  margin-top: 4,5rem;
-}
+</style>
