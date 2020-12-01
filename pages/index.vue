@@ -1,20 +1,25 @@
 <template>
   <div>
+    <TheHeader />
     <main class="main-content">
-      <TheHeader />
-      <nuxt />
+      <Nuxt />
     </main>
+    <TheFooter />
   </div>
 </template>
 
 <script>
-import TheHeader from '@/components/TheHeader.vue'
+import TheHeader from '@/components/TheHeader.vue';
+import TheFooter from '@/components/TheFooter.vue';
+
 export default {
 components: {
-    TheHeader
+    TheHeader,
+    TheFooter
     }
-}
+};
 </script>
+
 <style>
 * {
   box-sizing: border-box;
@@ -25,4 +30,3 @@ body {
 .main-content {
   margin-top: 4,5rem;
 }
-</style>
