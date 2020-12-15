@@ -8,7 +8,6 @@
               <nuxt-link to="/Corobimy" tag="li" class="nav-link"><a>Co robimy</a></nuxt-link>
               <nuxt-link to="/Dlaczego" tag="li" class="nav-link"><a>Dlaczego</a></nuxt-link>
               <nuxt-link to="/Dlakogo" tag="li" class="nav-link"><a>Dla kogo</a></nuxt-link>
-              <nuxt-link to="/Cozyskujesz" tag="li" class="nav-link"><a>Co zyskujesz</a></nuxt-link>
           </ul>
       </nav>
   </header>
