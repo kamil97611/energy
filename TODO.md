@@ -1,0 +1,5 @@
+-Jak wygląda ustawianie SEO dla Nuxta (meta tagi)
+-Jak zrobić wielojęzyczność w Nuxt
+-Jak zrobić walidację formularzy? (vuealidate)
+-Stylowanie overflow, scroll dla pojedynczego elementu
+-Wprowadzenie str. atomic design w comp. atoms, organisms, molecules

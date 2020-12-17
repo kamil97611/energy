@@ -3,11 +3,11 @@
       <nav class="main-nav">
           <ul class="nav-links">
               <nuxt-link to="/" tag="li" class="nav-link"><a>Home</a></nuxt-link>
-              <nuxt-link to="/Onas" tag="li" class="nav-link"><a>O nas</a></nuxt-link>
-              <nuxt-link to="/Kontakt" tag="li" class="nav-link"><a>Kontakt</a></nuxt-link>
-              <nuxt-link to="/Corobimy" tag="li" class="nav-link"><a>Co robimy</a></nuxt-link>
-              <nuxt-link to="/Dlaczego" tag="li" class="nav-link"><a>Dlaczego</a></nuxt-link>
-              <nuxt-link to="/Dlakogo" tag="li" class="nav-link"><a>Dla kogo</a></nuxt-link>
+              <nuxt-link to="/About" tag="li" class="nav-link"><a>O nas</a></nuxt-link>
+              <nuxt-link to="/Contact" tag="li" class="nav-link"><a>Kontakt</a></nuxt-link>
+              <nuxt-link to="/What" tag="li" class="nav-link"><a>Co robimy</a></nuxt-link>
+              <nuxt-link to="/Why" tag="li" class="nav-link"><a>Dlaczego</a></nuxt-link>
+              <nuxt-link to="/Whom" tag="li" class="nav-link"><a>Dla kogo</a></nuxt-link>
           </ul>
       </nav>
   </header>
