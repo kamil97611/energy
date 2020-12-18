@@ -1,4 +1,4 @@
--Jak wygląda ustawianie SEO dla Nuxta (meta tagi)
+-Jak wygląda ustawianie SEO dla Nuxta (meta tagi) odp. nuxt.config.js lub head w pages
 -Jak zrobić wielojęzyczność w Nuxt
 -Jak zrobić walidację formularzy? (vuealidate)
 -Stylowanie overflow, scroll dla pojedynczego elementu

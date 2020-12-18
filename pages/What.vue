@@ -1,5 +1,5 @@
 <template>
-  <section class="dlaczego">
+  <section class="corobimy">
       <article class="textowy">
           <div class="thumbnail" style="background-image: url('https://cdn1.iconfinder.com/data/icons/dollar-5/512/hand_euro_money-512.png')"></div>
           <h1>Termin na wykonanie kolejnego audytu: 2021 rok</h1>
@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style scoped>
-.dlaczego {
+.corobimy {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
