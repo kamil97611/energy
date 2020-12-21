@@ -1,10 +1,11 @@
 <template>
-    
+    <div>
+      <Body />
+    </div>
 </template>
 
 <script>
 export default {
-    layout: 'TheBody'
   }
 </script>
 

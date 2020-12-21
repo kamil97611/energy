@@ -5,13 +5,13 @@
           <h1>Konsorcjum „AUDYTY ENERGETYCZNE” Lider Konsorcjum: EL BARCO Sp. z o.o.</h1>
           <p1>www.audyty.info | kontakt@audyty.info <br> tel.: +48 (58) 333 46 09 <br>Siedziba: Gdynia (81-504), ul. Łowicka 63A <br> KRS: 315326  NIP: PL5862223551 <br>VIII Wydział Gospodarczy KRS Sądu Rejonowego Gdańsk-Północ</p1>
           <h2>ALEKSANDRA CIEŚLAK<br>Specjalista ds. sprzedaży<br>+48 (58) 333 46 09</h2>
+          <Form />
       </article>
   </section>
 </template>
 
 <script>
 export default {
-
 }
 </script>
 
@@ -24,6 +24,8 @@ export default {
     height: 100%;
     width: 100%;
     margin-top: 5rem;
+    margin-bottom: 5rem;
+    overflow: auto;
 
 }
 .textowy {

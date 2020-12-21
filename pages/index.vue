@@ -1,21 +1,21 @@
 <template>
   <div class="color">
-    <TheHeader />
+    <Header />
     <main class="main-content">
-
+      <Body />
     </main>
-    <TheFooter />
+    <Footer />
   </div>
 </template>
 
 <script>
-import TheHeader from '@/components/TheHeader'
-import TheFooter from '@/components/TheFooter'
+import Header from '@/components/Atoms/Header'
+import Footer from '@/components/Atoms/Footer'
 
 export default {
   components: {
-    TheHeader,
-    TheFooter
+    Header,
+    Footer
   }
 }
 </script>

@@ -24,6 +24,8 @@ export default {
     height: 100%;
     width: 100%;
     margin-top: 5rem;
+    margin-bottom: 5rem;
+    overflow: auto;
 
 }
 .textowy {
