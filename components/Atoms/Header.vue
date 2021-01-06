@@ -1,5 +1,6 @@
 <template>
   <header class="main-header">
+    <Lang />
       <nav class="main-nav">
           <ul class="nav-links">
               <nuxt-link to="/" tag="li" class="nav-link"><a>Home</a></nuxt-link>

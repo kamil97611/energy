@@ -23,5 +23,7 @@ body {
 }
 .main-content {
   margin-top: 4,5rem;
+  display: flex;
+  justify-content: center;
 }
 </style>

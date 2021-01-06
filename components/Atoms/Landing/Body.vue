@@ -32,10 +32,13 @@ margin-top: 12rem;
 margin-bottom: 5rem;
 }
 .boxystyle {
+  display: flex;
 box-sizing: border-box;
 width: 400px;
 padding: 8px;
 justify-content: center;
+align-items: center;
+text-align: center;
 }
 .thumbnail {
 background-position: center;
