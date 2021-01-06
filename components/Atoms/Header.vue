@@ -40,6 +40,8 @@ export default {
     padding: 0;
     align-items: center;
     height: 100%;
+    text-shadow: 2px 2px 6px grey;
+    color: white;
   }
   .nav-link {
     height: 100%;
