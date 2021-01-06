@@ -1,6 +1,5 @@
 <template>
   <header class="main-header">
-    <Lang />
       <nav class="main-nav">
           <ul class="nav-links">
               <nuxt-link to="/" tag="li" class="nav-link"><a>Home</a></nuxt-link>
@@ -9,6 +8,7 @@
               <nuxt-link to="/What" tag="li" class="nav-link"><a>Co robimy</a></nuxt-link>
               <nuxt-link to="/Why" tag="li" class="nav-link"><a>Dlaczego</a></nuxt-link>
               <nuxt-link to="/Whom" tag="li" class="nav-link"><a>Dla kogo</a></nuxt-link>
+              <Lang />
           </ul>
       </nav>
   </header>
@@ -40,6 +40,8 @@ export default {
     padding: 0;
     align-items: center;
     height: 100%;
+    text-shadow: 2px 2px 6px grey;
+    color: white;
   }
   .nav-link {
     height: 100%;

@@ -39,6 +39,8 @@ padding: 8px;
 justify-content: center;
 align-items: center;
 text-align: center;
+box-shadow: 10px 10px 10px grey;
+border-radius: 100px;
 }
 .thumbnail {
 background-position: center;
